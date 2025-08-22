@@ -21,9 +21,11 @@ const Hero = () => {
                                 Browse Collection
                             </button>
                         </Link>
-                        <button className="border-2 border-gray-800 hover:bg-gray-800 hover:text-white font-semibold py-3 px-8 rounded-lg transition duration-300">
-                            Join Our Club
-                        </button>
+                        <Link href='/addBooks'>
+                            <button className="border-2 border-gray-800 hover:bg-gray-800 hover:text-white font-semibold py-3 px-8 rounded-lg transition duration-300">
+                                Add Book
+                            </button>
+                        </Link>
                     </div>
                     <div className="mt-10 flex items-center justify-center md:justify-start">
                         <div className="flex -space-x-4 mr-6">
