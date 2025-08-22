@@ -20,14 +20,14 @@ const Navbar = () => {
   useEffect(() => {
     const handleClickOutside = (event) => {
       // Close profile menu if clicked outside
-      if (profileMenuRef.current && !profileMenuRef.current.contains(event.target) && 
-          profileButtonRef.current && !profileButtonRef.current.contains(event.target)) {
+      if (profileMenuRef.current && !profileMenuRef.current.contains(event.target) &&
+        profileButtonRef.current && !profileButtonRef.current.contains(event.target)) {
         setIsProfileMenuOpen(false);
       }
-      
+
       // Close mobile menu if clicked outside
-      if (mobileMenuRef.current && !mobileMenuRef.current.contains(event.target) && 
-          !event.target.closest('button[aria-expanded]')) {
+      if (mobileMenuRef.current && !mobileMenuRef.current.contains(event.target) &&
+        !event.target.closest('button[aria-expanded]')) {
         setIsMenuOpen(false);
       }
     };
@@ -45,10 +45,10 @@ const Navbar = () => {
   const links = (
     <>
       <li>
-        <Link 
-          className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/') 
-            ? 'bg-primary text-white' 
-            : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`} 
+        <Link
+          className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/')
+            ? 'bg-primary text-white'
+            : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`}
           href="/"
           onClick={() => setIsMenuOpen(false)}
         >
@@ -56,10 +56,10 @@ const Navbar = () => {
         </Link>
       </li>
       <li>
-        <Link 
-          className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/about') 
-            ? 'bg-primary text-white' 
-            : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`} 
+        <Link
+          className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/about')
+            ? 'bg-primary text-white'
+            : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`}
           href="/about"
           onClick={() => setIsMenuOpen(false)}
         >
@@ -67,23 +67,33 @@ const Navbar = () => {
         </Link>
       </li>
       <li>
-        <Link 
-          className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/books') 
-            ? 'bg-primary text-white' 
-            : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`} 
+        <Link
+          className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/books')
+            ? 'bg-primary text-white'
+            : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`}
           href="/books"
           onClick={() => setIsMenuOpen(false)}
         >
           Books
         </Link>
       </li>
-      {session && (
+      {session ? (
         <li>
-          <Link 
-            className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/addBooks') 
-              ? 'bg-primary text-white' 
-              : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`} 
+          <Link
+            className={`font-medium transition-colors px-3 py-2 rounded-md ${isActive('/addBooks')
+              ? 'bg-primary text-white'
+              : 'text-gray-700 hover:text-primary hover:bg-gray-100'}`}
             href="/addBooks"
+            onClick={() => setIsMenuOpen(false)}
+          >
+            Add Books
+          </Link>
+        </li>
+      ) : (
+        <li>
+          <Link
+            className={`font-medium transition-colors px-3 py-2 rounded-md text-gray-700 hover:text-primary hover:bg-gray-100`}
+            href="/login"
             onClick={() => setIsMenuOpen(false)}
           >
             Add Books

@@ -1,8 +1,13 @@
+"use client"
+
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useSession } from 'next-auth/react';
 
 const Hero = () => {
+    const { data: session, status } = useSession();
+    
     return (
         <section className="relative bg-gradient-to-r from-blue-50 to-indigo-100 py-16 md:py-24 overflow-hidden">
             <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
@@ -21,11 +26,19 @@ const Hero = () => {
                                 Browse Collection
                             </button>
                         </Link>
-                        <Link href='/addBooks'>
-                            <button className="border-2 text-black border-gray-800 hover:bg-gray-800 hover:text-white font-semibold py-3 px-8 rounded-lg transition duration-300">
-                                Add Book
-                            </button>
-                        </Link>
+                        {session ? (
+                            <Link href='/addBooks'>
+                                <button className="border-2 text-black border-gray-800 hover:bg-gray-800 hover:text-white font-semibold py-3 px-8 rounded-lg transition duration-300">
+                                    Add Book
+                                </button>
+                            </Link>
+                        ) : (
+                            <Link href='/login'>
+                                <button className="border-2 text-black border-gray-800 hover:bg-gray-800 hover:text-white font-semibold py-3 px-8 rounded-lg transition duration-300">
+                                    Add Book
+                                </button>
+                            </Link>
+                        )}
                     </div>
                     <div className="mt-10 flex items-center justify-center md:justify-start">
                         <div className="flex -space-x-4 mr-6">
