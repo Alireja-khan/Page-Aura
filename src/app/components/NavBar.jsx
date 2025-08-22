@@ -164,20 +164,6 @@ const Navbar = () => {
                         <p className="text-xs text-gray-500 truncate">{session.user.email}</p>
                       )}
                     </div>
-                    {/* <Link
-                      href="/profile"
-                      className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
-                      onClick={() => setIsProfileMenuOpen(false)}
-                    >
-                      Profile
-                    </Link>
-                    <Link
-                      href="/settings"
-                      className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
-                      onClick={() => setIsProfileMenuOpen(false)}
-                    >
-                      Settings
-                    </Link> */}
                     <div className="border-t border-gray-100 my-1"></div>
                     <button
                       onClick={handleLogout}
