@@ -22,7 +22,7 @@ const Hero = () => {
                             </button>
                         </Link>
                         <Link href='/addBooks'>
-                            <button className="border-2 border-gray-800 hover:bg-gray-800 hover:text-white font-semibold py-3 px-8 rounded-lg transition duration-300">
+                            <button className="border-2 text-black border-gray-800 hover:bg-gray-800 hover:text-white font-semibold py-3 px-8 rounded-lg transition duration-300">
                                 Add Book
                             </button>
                         </Link>

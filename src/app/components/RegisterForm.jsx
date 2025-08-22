@@ -1,3 +1,5 @@
+"use client"
+
 import React from 'react';
 import { registerUser } from '../actions/auth/registerUser';
 import { useRouter } from 'next/navigation';

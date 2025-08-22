@@ -2,6 +2,16 @@ import dbConnect from '@/lib/dbConnect';
 import { ObjectId } from 'mongodb';
 import Link from 'next/link';
 
+// Helper function to normalize genres (same as above)
+const normalizeGenres = (genre) => {
+  if (Array.isArray(genre)) {
+    return genre;
+  } else if (typeof genre === 'string') {
+    return [genre];
+  }
+  return [];
+};
+
 const BookDetailsPage = async ({ params }) => {
   const booksCollection = await dbConnect("books");
   const book = await booksCollection.findOne({ _id: new ObjectId(params.id) });
@@ -58,7 +68,7 @@ const BookDetailsPage = async ({ params }) => {
         {/* Main Content Card */}
         <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
           <div className="md:flex">
-            {/* Book Cover Section - Modernized */}
+            {/* Book Cover Section */}
             <div className="md:w-2/5 bg-white p-8 flex items-center justify-center">
               <div className="text-center w-full">
                 {book.coverImage ? (
@@ -96,15 +106,16 @@ const BookDetailsPage = async ({ params }) => {
                 <p className="text-lg text-gray-700 font-medium">by {book.author?.firstName} {book.author?.lastName}</p>
               </div>
               
+              {/* Fixed genre mapping with normalizeGenres */}
               <div className="flex flex-wrap gap-2 mb-6">
-                {book.genre?.map((genre, index) => (
+                {normalizeGenres(book.genre).map((genre, index) => (
                   <span key={index} className="px-3 py-1 bg-gradient-to-r from-blue-50 to-indigo-50 text-blue-700 text-sm font-medium rounded-full border border-blue-100">
                     {genre}
                   </span>
                 ))}
               </div>
               
-              {/* Ratings Card */}
+              {/* Ratings Card with optional chaining */}
               {book.ratings && (
                 <div className="flex items-center mb-6 p-4 bg-gradient-to-r from-gray-50 to-white rounded-xl shadow-sm border border-gray-100">
                   <div className="flex items-center mr-6">
@@ -112,7 +123,7 @@ const BookDetailsPage = async ({ params }) => {
                       {[1, 2, 3, 4, 5].map((star) => (
                         <svg 
                           key={star} 
-                          className={`w-5 h-5 ${star <= Math.round(book.ratings.goodreads || 0) ? 'text-yellow-400' : 'text-gray-300'}`} 
+                          className={`w-5 h-5 ${star <= Math.round(book.ratings?.goodreads || 0) ? 'text-yellow-400' : 'text-gray-300'}`} 
                           fill="currentColor" 
                           viewBox="0 0 20 20"
                         >
@@ -121,16 +132,16 @@ const BookDetailsPage = async ({ params }) => {
                       ))}
                     </div>
                     <span className="ml-2 text-gray-800 font-bold">
-                      {book.ratings.goodreads ? book.ratings.goodreads.toFixed(1) : 'N/A'}
+                      {book.ratings?.goodreads ? book.ratings.goodreads.toFixed(1) : 'N/A'}
                     </span>
                   </div>
                   <div className="text-sm text-gray-500 bg-gray-100 py-1 px-3 rounded-full">
-                    {book.ratings.count || 0} reviews
+                    {book.ratings?.count || 0} reviews
                   </div>
                 </div>
               )}
               
-              {/* Book Details Grid - Card Style */}
+              {/* Book Details Grid */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                 <div className="bg-white p-4 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
                   <h3 className="text-sm font-medium text-gray-500 mb-1">Published Date</h3>

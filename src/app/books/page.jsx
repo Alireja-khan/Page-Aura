@@ -2,7 +2,7 @@ import dbConnect from '@/lib/dbConnect';
 import React from 'react';
 import Link from 'next/link';
 
-// Helper function to normalize genres
+// Helper function to normalize genres (should be in a separate utils file)
 const normalizeGenres = (genre) => {
   if (Array.isArray(genre)) {
     return genre;
