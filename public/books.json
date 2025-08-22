@@ -1,0 +1,1726 @@
+    [
+        {
+            
+            "title": "The Name of the Wind",
+            "coverImage": "https://i.ibb.co.com/gLKyy78C/The-Name-of-Wind.webp",
+            "author": {
+                "firstName": "Patrick",
+                "lastName": "Rothfuss",
+                "birthDate": "1973-06-06",
+                "nationality": "American",
+                "awards": [
+                    "Quill Award",
+                    "Alex Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Adventure"
+            ],
+            "published": {
+                "date": "2007-03-27",
+                "publisher": "DAW Books",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0756404079",
+                "pages": 662
+            },
+            "language": "English",
+            "series": {
+                "name": "The Kingkiller Chronicle",
+                "number": 1,
+                "totalBooks": 3
+            },
+            "plot": "The novel traces the childhood and education of Kvothe, a legendary magician, musician, and adventurer.",
+            "characters": [
+                {
+                    "name": "Kvothe",
+                    "role": "Protagonist",
+                    "description": "A gifted young man who becomes a legendary arcanist."
+                },
+                {
+                    "name": "Denna",
+                    "role": "Love Interest",
+                    "description": "A mysterious woman Kvothe pursues."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "University",
+                    "type": "Magical Academy",
+                    "location": "Imre"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Quill Award",
+                    "category": "Fantasy",
+                    "year": 2007
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.52,
+                "amazon": 4.7,
+                "votes": 756432
+            },
+            "price": {
+                "hardcover": 24.99,
+                "paperback": 16.99,
+                "ebook": 9.99,
+                "audio": 24.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 42
+        },
+        {
+            
+            "title": "Mistborn: The Final Empire",
+            "coverImage": "https://i.ibb.co.com/C3qHSq9H/Mistborn.jpg",
+            "author": {
+                "firstName": "Brandon",
+                "lastName": "Sanderson",
+                "birthDate": "1975-12-19",
+                "nationality": "American",
+                "awards": [
+                    "David Gemmell Legend Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Epic"
+            ],
+            "published": {
+                "date": "2006-07-17",
+                "publisher": "Tor Books",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0765311788",
+                "pages": 541
+            },
+            "language": "English",
+            "series": {
+                "name": "Mistborn",
+                "number": 1,
+                "totalBooks": 3
+            },
+            "plot": "In a world ruled by the immortal Lord Ruler, a street urchin discovers she has the powers of a Mistborn and joins a crew planning to overthrow the empire.",
+            "characters": [
+                {
+                    "name": "Vin",
+                    "role": "Protagonist",
+                    "description": "A street thief who discovers she is a Mistborn."
+                },
+                {
+                    "name": "Kelsier",
+                    "role": "Mentor",
+                    "description": "A charismatic leader planning rebellion."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Luthadel",
+                    "type": "Capital City",
+                    "location": "Final Empire"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "David Gemmell Legend Award",
+                    "category": "Fantasy",
+                    "year": 2008
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.46,
+                "amazon": 4.8,
+                "votes": 750000
+            },
+            "price": {
+                "hardcover": 26.99,
+                "paperback": 14.99,
+                "ebook": 8.99,
+                "audio": 22.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 35
+        },
+        {
+            
+            "title": "A Game of Thrones",
+            "coverImage": "https://i.ibb.co.com/GfF5kmsm/A-Game-of-Thrones.jpg",
+            "author": {
+                "firstName": "George R.R.",
+                "lastName": "Martin",
+                "birthDate": "1948-09-20",
+                "nationality": "American",
+                "awards": [
+                    "Locus Award",
+                    "Hugo Award Nominee"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Political"
+            ],
+            "published": {
+                "date": "1996-08-06",
+                "publisher": "Bantam Spectra",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0553103540",
+                "pages": 694
+            },
+            "language": "English",
+            "series": {
+                "name": "A Song of Ice and Fire",
+                "number": 1,
+                "totalBooks": 7
+            },
+            "plot": "Noble families vie for control of the Iron Throne while dark forces gather beyond the Wall.",
+            "characters": [
+                {
+                    "name": "Eddard Stark",
+                    "role": "Protagonist",
+                    "description": "Lord of Winterfell, drawn into political intrigue."
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "role": "Heir",
+                    "description": "Exiled princess seeking to reclaim her throne."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Winterfell",
+                    "type": "Castle",
+                    "location": "The North"
+                },
+                {
+                    "name": "King's Landing",
+                    "type": "Capital",
+                    "location": "The Crownlands"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Locus Award",
+                    "category": "Fantasy",
+                    "year": 1997
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.44,
+                "amazon": 4.7,
+                "votes": 2000000
+            },
+            "price": {
+                "hardcover": 29.99,
+                "paperback": 17.99,
+                "ebook": 9.99,
+                "audio": 25.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 47
+        },
+        {
+            
+            "title": "The Hobbit",
+            "coverImage": "https://i.ibb.co.com/nSzp1rh/The-hobbit.jpg",
+            "author": {
+                "firstName": "J.R.R.",
+                "lastName": "Tolkien",
+                "birthDate": "1892-01-03",
+                "nationality": "British",
+                "awards": [
+                    "New York Herald Tribune Children's Spring Book Festival prize"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Adventure"
+            ],
+            "published": {
+                "date": "1937-09-21",
+                "publisher": "George Allen & Unwin",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0048231887",
+                "pages": 310
+            },
+            "language": "English",
+            "series": {
+                "name": "Middle-earth",
+                "number": 1,
+                "totalBooks": 2
+            },
+            "plot": "Bilbo Baggins, a hobbit, is reluctantly swept into a quest to reclaim a lost Dwarf kingdom from the dragon Smaug.",
+            "characters": [
+                {
+                    "name": "Bilbo Baggins",
+                    "role": "Protagonist",
+                    "description": "A reluctant adventurer."
+                },
+                {
+                    "name": "Gandalf",
+                    "role": "Guide",
+                    "description": "A wizard who pushes Bilbo into adventure."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "The Shire",
+                    "type": "Village",
+                    "location": "Eriador"
+                },
+                {
+                    "name": "Lonely Mountain",
+                    "type": "Mountain",
+                    "location": "Wilderland"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Children's Book Prize",
+                    "category": "Adventure",
+                    "year": 1938
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.28,
+                "amazon": 4.8,
+                "votes": 3200000
+            },
+            "price": {
+                "hardcover": 21.99,
+                "paperback": 12.99,
+                "ebook": 7.99,
+                "audio": 19.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 50
+        },
+        {
+            
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "coverImage": "https://i.ibb.co.com/FLQL4KTS/Harry-Poter.jpg",
+            "author": {
+                "firstName": "J.K.",
+                "lastName": "Rowling",
+                "birthDate": "1965-07-31",
+                "nationality": "British",
+                "awards": [
+                    "Nestlé Smarties Book Prize",
+                    "British Book Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Young Adult"
+            ],
+            "published": {
+                "date": "1997-06-26",
+                "publisher": "Bloomsbury",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0747532699",
+                "pages": 223
+            },
+            "language": "English",
+            "series": {
+                "name": "Harry Potter",
+                "number": 1,
+                "totalBooks": 7
+            },
+            "plot": "A young boy discovers he is a wizard and attends Hogwarts, a school of magic, where he makes friends and enemies while uncovering dark secrets.",
+            "characters": [
+                {
+                    "name": "Harry Potter",
+                    "role": "Protagonist",
+                    "description": "The boy who lived."
+                },
+                {
+                    "name": "Hermione Granger",
+                    "role": "Friend",
+                    "description": "Intelligent and resourceful student."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Hogwarts",
+                    "type": "School",
+                    "location": "Scotland"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Nestlé Smarties Prize",
+                    "category": "Children's Literature",
+                    "year": 1997
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.47,
+                "amazon": 4.9,
+                "votes": 7000000
+            },
+            "price": {
+                "hardcover": 25.99,
+                "paperback": 15.99,
+                "ebook": 8.99,
+                "audio": 23.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 80
+        },
+        {
+            
+            "title": "The Lies of Locke Lamora",
+            "coverImage": "https://i.ibb.co.com/xVnRL3h/Lies-Locke-Lamora.webp",
+            "author": {
+                "firstName": "Scott",
+                "lastName": "Lynch",
+                "birthDate": "1978-04-02",
+                "nationality": "American",
+                "awards": [
+                    "World Fantasy Award Nominee"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Crime"
+            ],
+            "published": {
+                "date": "2006-06-27",
+                "publisher": "Gollancz",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0553804676",
+                "pages": 722
+            },
+            "language": "English",
+            "series": {
+                "name": "Gentleman Bastard",
+                "number": 1,
+                "totalBooks": 7
+            },
+            "plot": "A band of con artists, led by Locke Lamora, swindle the rich in the city of Camorr, but soon find themselves entangled in a deadly power struggle.",
+            "characters": [
+                {
+                    "name": "Locke Lamora",
+                    "role": "Protagonist",
+                    "description": "A master con artist with a brilliant mind."
+                },
+                {
+                    "name": "Jean Tannen",
+                    "role": "Companion",
+                    "description": "Locke's loyal and formidable friend."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Camorr",
+                    "type": "City",
+                    "location": "Fantasy Venice-like city"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "World Fantasy Award",
+                    "category": "Best Novel Nominee",
+                    "year": 2007
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.28,
+                "amazon": 4.6,
+                "votes": 450000
+            },
+            "price": {
+                "hardcover": 27.99,
+                "paperback": 15.99,
+                "ebook": 9.99,
+                "audio": 24.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 30
+        },
+        {
+            
+            "title": "The Way of Kings",
+            "coverImage": "https://i.ibb.co.com/4RM0Sy8S/The-Way-of-Kings.jpg",
+            "author": {
+                "firstName": "Brandon",
+                "lastName": "Sanderson",
+                "birthDate": "1975-12-19",
+                "nationality": "American",
+                "awards": [
+                    "David Gemmell Legend Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Epic"
+            ],
+            "published": {
+                "date": "2010-08-31",
+                "publisher": "Tor Books",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0765326355",
+                "pages": 1007
+            },
+            "language": "English",
+            "series": {
+                "name": "The Stormlight Archive",
+                "number": 1,
+                "totalBooks": 10
+            },
+            "plot": "In a world wracked by magical storms, a soldier, a scholar, and a slave become pivotal in an impending war for survival.",
+            "characters": [
+                {
+                    "name": "Kaladin",
+                    "role": "Protagonist",
+                    "description": "A former soldier turned slave with a gift for leadership."
+                },
+                {
+                    "name": "Shallan Davar",
+                    "role": "Scholar",
+                    "description": "An ambitious young woman seeking knowledge of ancient secrets."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Shattered Plains",
+                    "type": "Battlefield",
+                    "location": "Roshar"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "David Gemmell Legend Award",
+                    "category": "Fantasy",
+                    "year": 2011
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.65,
+                "amazon": 4.9,
+                "votes": 600000
+            },
+            "price": {
+                "hardcover": 34.99,
+                "paperback": 18.99,
+                "ebook": 11.99,
+                "audio": 32.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 28
+        },
+        {
+            
+            "title": "The Priory of the Orange Tree",
+            "coverImage": "https://i.ibb.co.com/7tw19PFH/The-Priory-of-the-Orange-Tree.jpg",
+            "author": {
+                "firstName": "Samantha",
+                "lastName": "Shannon",
+                "birthDate": "1991-11-08",
+                "nationality": "British",
+                "awards": [
+                    "Red Tentacle Award Nominee"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Epic"
+            ],
+            "published": {
+                "date": "2019-02-26",
+                "publisher": "Bloomsbury",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-1635570298",
+                "pages": 848
+            },
+            "language": "English",
+            "series": {
+                "name": "Standalone",
+                "number": 1,
+                "totalBooks": 1
+            },
+            "plot": "A sprawling epic where a divided world faces the return of a fire-breathing dragon, and powerful women fight to unite kingdoms.",
+            "characters": [
+                {
+                    "name": "Ead Duryan",
+                    "role": "Protector",
+                    "description": "A mage tasked with protecting her queen."
+                },
+                {
+                    "name": "Queen Sabran IX",
+                    "role": "Ruler",
+                    "description": "A queen pressured to produce an heir."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Inys",
+                    "type": "Kingdom",
+                    "location": "Western Continent"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Red Tentacle Award",
+                    "category": "Fantasy",
+                    "year": 2020
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.25,
+                "amazon": 4.6,
+                "votes": 150000
+            },
+            "price": {
+                "hardcover": 32.99,
+                "paperback": 19.99,
+                "ebook": 12.99,
+                "audio": 29.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 15
+        },
+        {
+            
+            "title": "Circe",
+            "coverImage": "https://i.ibb.co.com/k2RrWvB2/Circe.jpg",
+            "author": {
+                "firstName": "Madeline",
+                "lastName": "Miller",
+                "birthDate": "1978-07-24",
+                "nationality": "American",
+                "awards": [
+                    "Goodreads Choice Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Mythology"
+            ],
+            "published": {
+                "date": "2018-04-10",
+                "publisher": "Little, Brown and Company",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0316556347",
+                "pages": 393
+            },
+            "language": "English",
+            "series": {
+                "name": "Standalone",
+                "number": 1,
+                "totalBooks": 1
+            },
+            "plot": "A retelling of the story of Circe, daughter of Helios, as she carves out a place for herself among gods and mortals.",
+            "characters": [
+                {
+                    "name": "Circe",
+                    "role": "Protagonist",
+                    "description": "A witch who defies the gods and embraces her independence."
+                },
+                {
+                    "name": "Odysseus",
+                    "role": "Companion",
+                    "description": "The Greek hero who visits Circe’s island."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Aiaia",
+                    "type": "Island",
+                    "location": "Greek Seas"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Goodreads Choice Award",
+                    "category": "Fantasy",
+                    "year": 2018
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.29,
+                "amazon": 4.7,
+                "votes": 500000
+            },
+            "price": {
+                "hardcover": 27.00,
+                "paperback": 16.99,
+                "ebook": 9.99,
+                "audio": 24.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 32
+        },
+        {
+            
+            "title": "Jonathan Strange & Mr Norrell",
+            "coverImage": "https://i.ibb.co.com/Yq4BhT7/Jonathan-Strange.jpg",
+            "author": {
+                "firstName": "Susanna",
+                "lastName": "Clarke",
+                "birthDate": "1959-11-01",
+                "nationality": "British",
+                "awards": [
+                    "Hugo Award",
+                    "World Fantasy Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Historical"
+            ],
+            "published": {
+                "date": "2004-09-01",
+                "publisher": "Bloomsbury",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-1582344164",
+                "pages": 782
+            },
+            "language": "English",
+            "series": {
+                "name": "Standalone",
+                "number": 1,
+                "totalBooks": 1
+            },
+            "plot": "In an alternate 19th-century England, two magicians rise to prominence, rekindling English magic while clashing in ideology and practice.",
+            "characters": [
+                {
+                    "name": "Mr. Norrell",
+                    "role": "Magician",
+                    "description": "A reclusive scholar reviving English magic."
+                },
+                {
+                    "name": "Jonathan Strange",
+                    "role": "Magician",
+                    "description": "A bold, intuitive magician who becomes Norrell's rival."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "London",
+                    "type": "City",
+                    "location": "England"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Hugo Award",
+                    "category": "Best Novel",
+                    "year": 2005
+                },
+                {
+                    "name": "World Fantasy Award",
+                    "category": "Best Novel",
+                    "year": 2005
+                }
+            ],
+            "ratings": {
+                "goodreads": 3.82,
+                "amazon": 4.2,
+                "votes": 180000
+            },
+            "price": {
+                "hardcover": 28.99,
+                "paperback": 17.99,
+                "ebook": 10.99,
+                "audio": 27.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 22
+        },
+        {
+            
+            "title": "American Gods",
+            "coverImage": "https://i.ibb.co.com/hRFHGSh1/American-Gods.jpg",
+            "author": {
+                "firstName": "Neil",
+                "lastName": "Gaiman",
+                "birthDate": "1960-11-10",
+                "nationality": "British",
+                "awards": [
+                    "Hugo Award",
+                    "Nebula Award",
+                    "Bram Stoker Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Mythology",
+                "Contemporary"
+            ],
+            "published": {
+                "date": "2001-06-19",
+                "publisher": "William Morrow",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0380973651",
+                "pages": 465
+            },
+            "language": "English",
+            "series": {
+                "name": "Standalone",
+                "number": 1,
+                "totalBooks": 1
+            },
+            "plot": "A man named Shadow is released from prison and becomes embroiled in a conflict between old gods and new in modern America.",
+            "characters": [
+                {
+                    "name": "Shadow Moon",
+                    "role": "Protagonist",
+                    "description": "An ex-convict caught in the battle of gods."
+                },
+                {
+                    "name": "Mr. Wednesday",
+                    "role": "Mentor",
+                    "description": "A mysterious conman who is more than he appears."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Various Locations",
+                    "type": "America",
+                    "location": "United States"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Hugo Award",
+                    "category": "Best Novel",
+                    "year": 2002
+                },
+                {
+                    "name": "Nebula Award",
+                    "category": "Best Novel",
+                    "year": 2002
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.11,
+                "amazon": 4.4,
+                "votes": 700000
+            },
+            "price": {
+                "hardcover": 29.99,
+                "paperback": 15.99,
+                "ebook": 9.99,
+                "audio": 25.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 38
+        },
+        {
+            
+            "title": "The Blade Itself",
+            "coverImage": "https://i.ibb.co.com/xWhD60P/Tha-Blade-Itself.jpg",
+            "author": {
+                "firstName": "Joe",
+                "lastName": "Abercrombie",
+                "birthDate": "1974-12-31",
+                "nationality": "British",
+                "awards": [
+                    "Locus Award Nominee"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Grimdark"
+            ],
+            "published": {
+                "date": "2006-05-04",
+                "publisher": "Gollancz",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0575079793",
+                "pages": 517
+            },
+            "language": "English",
+            "series": {
+                "name": "The First Law",
+                "number": 1,
+                "totalBooks": 3
+            },
+            "plot": "A barbarian, a torturer, and a self-absorbed nobleman find themselves on a path toward war and upheaval in a brutal fantasy world.",
+            "characters": [
+                {
+                    "name": "Logen Ninefingers",
+                    "role": "Protagonist",
+                    "description": "A battle-hardened barbarian seeking survival."
+                },
+                {
+                    "name": "Sand dan Glokta",
+                    "role": "Anti-hero",
+                    "description": "A crippled torturer working for the Inquisition."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Adua",
+                    "type": "City",
+                    "location": "Union Capital"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Locus Award",
+                    "category": "Fantasy Nominee",
+                    "year": 2007
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.21,
+                "amazon": 4.6,
+                "votes": 250000
+            },
+            "price": {
+                "hardcover": 27.00,
+                "paperback": 15.50,
+                "ebook": 9.99,
+                "audio": 23.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 20
+        },
+        {
+            
+            "title": "The Black Prism",
+            "coverImage": "https://i.ibb.co.com/gMhG0VfT/Black-Prism.webp",
+            "author": {
+                "firstName": "Brent",
+                "lastName": "Weeks",
+                "birthDate": "1977-03-07",
+                "nationality": "American",
+                "awards": [
+                    "David Gemmell Legend Award Nominee"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Epic"
+            ],
+            "published": {
+                "date": "2010-08-25",
+                "publisher": "Orbit Books",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0316075558",
+                "pages": 640
+            },
+            "language": "English",
+            "series": {
+                "name": "Lightbringer",
+                "number": 1,
+                "totalBooks": 5
+            },
+            "plot": "In a world where magic is harnessed through light and color, the world's most powerful man discovers a dangerous secret that could shatter the balance.",
+            "characters": [
+                {
+                    "name": "Gavin Guile",
+                    "role": "Protagonist",
+                    "description": "The Prism, the most powerful man alive."
+                },
+                {
+                    "name": "Kip",
+                    "role": "Secondary",
+                    "description": "A young man who discovers his own magical abilities."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Seven Satrapies",
+                    "type": "Kingdoms",
+                    "location": "Fantasy World"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Legend Award",
+                    "category": "Fantasy Nominee",
+                    "year": 2011
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.23,
+                "amazon": 4.7,
+                "votes": 180000
+            },
+            "price": {
+                "hardcover": 28.99,
+                "paperback": 16.50,
+                "ebook": 9.99,
+                "audio": 26.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 18
+        },
+        {
+            
+            "title": "Good Omens",
+            "coverImage": "https://i.ibb.co.com/gLj09q1G/Good-Omens.jpg",
+            "author": {
+                "firstName": "Neil",
+                "lastName": "Gaiman",
+                "birthDate": "1960-11-10",
+                "nationality": "British",
+                "awards": [
+                    "Mythopoeic Award"
+                ]
+            },
+            "coAuthor": {
+                "firstName": "Terry",
+                "lastName": "Pratchett",
+                "birthDate": "1948-04-28",
+                "nationality": "British"
+            },
+            "genre": [
+                "Fantasy",
+                "Comedy"
+            ],
+            "published": {
+                "date": "1990-05-01",
+                "publisher": "Gollancz",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0552137035",
+                "pages": 412
+            },
+            "language": "English",
+            "series": {
+                "name": "Standalone",
+                "number": 1,
+                "totalBooks": 1
+            },
+            "plot": "An angel and a demon team up to prevent the apocalypse, as they’ve grown fond of Earth and its inhabitants.",
+            "characters": [
+                {
+                    "name": "Aziraphale",
+                    "role": "Angel",
+                    "description": "A fussy but kind-hearted angel."
+                },
+                {
+                    "name": "Crowley",
+                    "role": "Demon",
+                    "description": "A demon with a love for earthly pleasures."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "England",
+                    "type": "Country",
+                    "location": "United Kingdom"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Mythopoeic Award",
+                    "category": "Fantasy",
+                    "year": 1991
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.25,
+                "amazon": 4.8,
+                "votes": 650000
+            },
+            "price": {
+                "hardcover": 24.99,
+                "paperback": 14.99,
+                "ebook": 8.99,
+                "audio": 23.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 33
+        },
+        {
+            
+            "title": "The Once and Future King",
+            "coverImage": "https://i.ibb.co.com/xSvSPzRg/The-Once-and-Future-King.jpg",
+            "author": {
+                "firstName": "T.H.",
+                "lastName": "White",
+                "birthDate": "1906-05-29",
+                "nationality": "British",
+                "awards": [
+                    "Retro Hugo Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Arthurian"
+            ],
+            "published": {
+                "date": "1958-01-01",
+                "publisher": "Collins",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0007105472",
+                "pages": 639
+            },
+            "language": "English",
+            "series": {
+                "name": "Arthurian Saga",
+                "number": 1,
+                "totalBooks": 4
+            },
+            "plot": "A modern retelling of the legend of King Arthur, tracing his life from boyhood to his tragic downfall.",
+            "characters": [
+                {
+                    "name": "Arthur (Wart)",
+                    "role": "Protagonist",
+                    "description": "A boy destined to be king."
+                },
+                {
+                    "name": "Merlin",
+                    "role": "Mentor",
+                    "description": "The wise wizard guiding Arthur."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Camelot",
+                    "type": "Castle",
+                    "location": "Britain"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Retro Hugo Award",
+                    "category": "Best Novel",
+                    "year": 2014
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.07,
+                "amazon": 4.5,
+                "votes": 120000
+            },
+            "price": {
+                "hardcover": 26.50,
+                "paperback": 15.00,
+                "ebook": 9.99,
+                "audio": 22.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 25
+        },
+        
+        
+        {
+            
+            "title": "Eragon",
+            "coverImage": "https://i.ibb.co.com/sdxBZ9cj/Eragon.jpg",
+            "author": {
+                "firstName": "Christopher",
+                "lastName": "Paolini",
+                "birthDate": "1983-11-17",
+                "nationality": "American",
+                "awards": [
+                    "Young Reader's Choice Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Adventure",
+                "Young Adult"
+            ],
+            "published": {
+                "date": "2002-06-26",
+                "publisher": "Paolini International LLC",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0375826689",
+                "pages": 544
+            },
+            "language": "English",
+            "series": {
+                "name": "Inheritance Cycle",
+                "number": 1,
+                "totalBooks": 4
+            },
+            "plot": "A young farm boy discovers a dragon egg, leading him on a journey to become a Dragon Rider and fight an evil empire.",
+            "characters": [
+                {
+                    "name": "Eragon",
+                    "role": "Protagonist",
+                    "description": "Farm boy turned Dragon Rider."
+                },
+                {
+                    "name": "Saphira",
+                    "role": "Companion",
+                    "description": "A dragon bonded with Eragon."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Alagaësia",
+                    "type": "Fantasy World",
+                    "location": "Continent"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Young Reader's Choice Award",
+                    "category": "Intermediate",
+                    "year": 2006
+                }
+            ],
+            "ratings": {
+                "goodreads": 3.91,
+                "amazon": 4.5,
+                "votes": 1345632
+            },
+            "price": {
+                "hardcover": 26.99,
+                "paperback": 12.99,
+                "ebook": 7.99,
+                "audio": 24.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 49
+        },
+        {
+            
+            "title": "Red Rising",
+            "coverImage": "https://i.ibb.co.com/HyFPvVh/Red-Rising.jpg",
+            "author": {
+                "firstName": "Pierce",
+                "lastName": "Brown",
+                "birthDate": "1988-01-28",
+                "nationality": "American",
+                "awards": [
+                    "Goodreads Choice Award"
+                ]
+            },
+            "genre": [
+                "Science Fiction",
+                "Dystopian"
+            ],
+            "published": {
+                "date": "2014-01-28",
+                "publisher": "Del Rey Books",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0345539786",
+                "pages": 382
+            },
+            "language": "English",
+            "series": {
+                "name": "Red Rising Saga",
+                "number": 1,
+                "totalBooks": 6
+            },
+            "plot": "Darrow, a lowborn Red miner on Mars, infiltrates the ruling Gold caste to bring justice and spark a revolution.",
+            "characters": [
+                {
+                    "name": "Darrow",
+                    "role": "Protagonist",
+                    "description": "A miner who rises to challenge the oppressive Golds."
+                },
+                {
+                    "name": "Mustang",
+                    "role": "Ally",
+                    "description": "A clever and ambitious Gold woman who joins Darrow."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Mars",
+                    "type": "Planet",
+                    "location": "Solar System"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Goodreads Choice Award",
+                    "category": "Debut Author",
+                    "year": 2014
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.26,
+                "amazon": 4.6,
+                "votes": 478392
+            },
+            "price": {
+                "hardcover": 27.99,
+                "paperback": 13.99,
+                "ebook": 8.99,
+                "audio": 29.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 32
+        },
+        {
+            
+            "title": "The Magicians",
+            "coverImage": "https://i.ibb.co.com/jPh47RSR/The-Magician.jpg",
+            "author": {
+                "firstName": "Lev",
+                "lastName": "Grossman",
+                "birthDate": "1969-06-26",
+                "nationality": "American",
+                "awards": [
+                    "Alex Award"
+                ]
+            },
+            "genre": [
+                "Fantasy",
+                "Contemporary",
+                "Dark Academia"
+            ],
+            "published": {
+                "date": "2009-08-11",
+                "publisher": "Viking Press",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0670020553",
+                "pages": 402
+            },
+            "language": "English",
+            "series": {
+                "name": "The Magicians Trilogy",
+                "number": 1,
+                "totalBooks": 3
+            },
+            "plot": "Quentin Coldwater, a high school senior, discovers that magic is real and attends Brakebills, a college for magicians.",
+            "characters": [
+                {
+                    "name": "Quentin Coldwater",
+                    "role": "Protagonist",
+                    "description": "A gifted but troubled magician."
+                },
+                {
+                    "name": "Alice Quinn",
+                    "role": "Ally",
+                    "description": "A talented magician and Quentin's love interest."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Brakebills College",
+                    "type": "Magical University",
+                    "location": "New York State"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Alex Award",
+                    "category": "Young Adult/Adult Crossover",
+                    "year": 2010
+                }
+            ],
+            "ratings": {
+                "goodreads": 3.57,
+                "amazon": 4.1,
+                "votes": 210981
+            },
+            "price": {
+                "hardcover": 26.95,
+                "paperback": 14.95,
+                "ebook": 9.99,
+                "audio": 29.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 23
+        },
+        
+        {
+            
+            "title": "Dracula",
+            "coverImage": "https://i.ibb.co.com/XkdLDVjj/Dracula.jpg",
+            "author": {
+                "firstName": "Bram",
+                "lastName": "Stoker",
+                "birthDate": "1847-11-08",
+                "nationality": "Irish",
+                "awards": []
+            },
+            "genre": [
+                "Gothic Horror",
+                "Classic"
+            ],
+            "published": {
+                "date": "1897-05-26",
+                "publisher": "Archibald Constable and Company",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0486411095",
+                "pages": 418
+            },
+            "language": "English",
+            "series": {
+                "name": null,
+                "number": null,
+                "totalBooks": null
+            },
+            "plot": "The tale of Count Dracula's attempt to move from Transylvania to England, opposed by Professor Van Helsing and his allies.",
+            "characters": [
+                {
+                    "name": "Count Dracula",
+                    "role": "Antagonist",
+                    "description": "Vampire lord from Transylvania."
+                },
+                {
+                    "name": "Van Helsing",
+                    "role": "Protagonist",
+                    "description": "Doctor and vampire hunter leading the fight against Dracula."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Transylvania",
+                    "type": "Castle",
+                    "location": "Romania"
+                }
+            ],
+            "awards": [],
+            "ratings": {
+                "goodreads": 4.01,
+                "amazon": 4.4,
+                "votes": 993241
+            },
+            "price": {
+                "hardcover": 22.99,
+                "paperback": 12.99,
+                "ebook": 3.99,
+                "audio": 19.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 65
+        },
+        {
+            
+            "title": "The Alchemist",
+            "coverImage": "https://i.ibb.co.com/jvt0pkLh/18144590.jpg",
+            "author": {
+                "firstName": "Paulo",
+                "lastName": "Coelho",
+                "birthDate": "1947-08-24",
+                "nationality": "Brazilian",
+                "awards": [
+                    "Golden Book Award"
+                ]
+            },
+            "genre": [
+                "Philosophical Fiction",
+                "Adventure"
+            ],
+            "published": {
+                "date": "1988-04-15",
+                "publisher": "HarperOne",
+                "country": "Brazil",
+                "edition": "First Edition",
+                "isbn": "978-0061122415",
+                "pages": 197
+            },
+            "language": "Portuguese",
+            "series": {
+                "name": null,
+                "number": null,
+                "totalBooks": null
+            },
+            "plot": "The journey of a young Andalusian shepherd named Santiago who dreams of finding treasure in Egypt, but discovers deeper truths.",
+            "characters": [
+                {
+                    "name": "Santiago",
+                    "role": "Protagonist",
+                    "description": "Shepherd boy on a journey of discovery."
+                },
+                {
+                    "name": "The Alchemist",
+                    "role": "Mentor",
+                    "description": "A wise figure guiding Santiago to his personal legend."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Desert",
+                    "type": "Wilderness",
+                    "location": "Egypt"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Golden Book Award",
+                    "category": "Fiction",
+                    "year": 1999
+                }
+            ],
+            "ratings": {
+                "goodreads": 3.89,
+                "amazon": 4.7,
+                "votes": 2634521
+            },
+            "price": {
+                "hardcover": 21.99,
+                "paperback": 14.99,
+                "ebook": 8.99,
+                "audio": 18.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 80
+        },
+        {
+            
+            "title": "Jane Eyre",
+            "coverImage": "https://i.ibb.co.com/CszMxhzC/Jane-Eyre.jpg",
+            "author": {
+                "firstName": "Charlotte",
+                "lastName": "Bronte",
+                "birthDate": "1816-04-21",
+                "nationality": "British",
+                "awards": []
+            },
+            "genre": [
+                "Classic",
+                "Romance",
+                "Gothic"
+            ],
+            "published": {
+                "date": "1847-10-16",
+                "publisher": "Smith, Elder & Co.",
+                "country": "United Kingdom",
+                "edition": "First Edition",
+                "isbn": "978-0142437209",
+                "pages": 532
+            },
+            "language": "English",
+            "series": {
+                "name": null,
+                "number": null,
+                "totalBooks": null
+            },
+            "plot": "The story of an orphaned girl who becomes a governess and falls in love with her employer, only to discover his dark secret.",
+            "characters": [
+                {
+                    "name": "Jane Eyre",
+                    "role": "Protagonist",
+                    "description": "An orphaned girl who becomes a governess."
+                },
+                {
+                    "name": "Mr. Rochester",
+                    "role": "Love Interest",
+                    "description": "Jane's employer with a dark past."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Thornfield Hall",
+                    "type": "Manor",
+                    "location": "England"
+                }
+            ],
+            "awards": [],
+            "ratings": {
+                "goodreads": 4.13,
+                "amazon": 4.6,
+                "votes": 1678321
+            },
+            "price": {
+                "hardcover": 23.99,
+                "paperback": 13.99,
+                "ebook": 4.99,
+                "audio": 20.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 58
+        },
+        {
+            
+            "title": "Dune",
+            "coverImage": "https://i.ibb.co.com/9k94h1gX/Dune.jpg",
+            "author": {
+                "firstName": "Frank",
+                "lastName": "Herbert",
+                "birthDate": "1920-10-08",
+                "nationality": "American",
+                "awards": [
+                    "Nebula Award",
+                    "Hugo Award"
+                ]
+            },
+            "genre": [
+                "Science Fiction",
+                "Adventure",
+                "Political"
+            ],
+            "published": {
+                "date": "1965-08-01",
+                "publisher": "Chilton Books",
+                "country": "United States",
+                "edition": "First Edition",
+                "isbn": "978-0441172719",
+                "pages": 412
+            },
+            "language": "English",
+            "series": {
+                "name": "Dune Series",
+                "number": 1,
+                "totalBooks": 6
+            },
+            "plot": "On the desert planet Arrakis, young Paul Atreides rises to power among the Fremen while opposing interstellar political forces.",
+            "characters": [
+                {
+                    "name": "Paul Atreides",
+                    "role": "Protagonist",
+                    "description": "Heir of House Atreides, destined to become the Kwisatz Haderach."
+                },
+                {
+                    "name": "Baron Harkonnen",
+                    "role": "Antagonist",
+                    "description": "Ruthless ruler seeking control of Arrakis."
+                }
+            ],
+            "settings": [
+                {
+                    "name": "Arrakis",
+                    "type": "Desert Planet",
+                    "location": "Outer Universe"
+                }
+            ],
+            "awards": [
+                {
+                    "name": "Nebula Award",
+                    "category": "Best Novel",
+                    "year": 1965
+                },
+                {
+                    "name": "Hugo Award",
+                    "category": "Best Novel",
+                    "year": 1966
+                }
+            ],
+            "ratings": {
+                "goodreads": 4.25,
+                "amazon": 4.7,
+                "votes": 1289432
+            },
+            "price": {
+                "hardcover": 28.99,
+                "paperback": 16.99,
+                "ebook": 9.99,
+                "audio": 27.95
+            },
+            "formats": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ],
+            "translations": 50
+        }
+    ]
