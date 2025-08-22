@@ -15,7 +15,7 @@ const LoginForm = () => {
         toast("Submitting...")
 
         try {
-            await signIn("credentials", { email, password, callbackUrl: "/", });
+            await signIn("credentials", { email, password, callbackUrl: "/books", });
             
             // router.push("/");
             // console.log({ email, password });

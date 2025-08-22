@@ -1,7 +1,10 @@
 import React from 'react';
 import { registerUser } from '../actions/auth/registerUser';
+import { useRouter } from 'next/navigation';
+import toast from 'react-hot-toast';
 
 const RegisterForm = () => {
+    const router = useRouter();
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -10,7 +13,18 @@ const RegisterForm = () => {
         const email = form.email.value;
         const password = form.password.value;
 
-        await registerUser({name, email, password})
+        toast.loading('Registering...');
+
+        try {
+            await registerUser({ name, email, password });
+            toast.dismiss();
+            toast.success('Registration successful!');
+            router.push('/'); // Redirect to home page
+        } catch (error) {
+            toast.dismiss();
+            toast.error('Registration failed');
+            console.error('Registration error:', error);
+        }
     };
 
     return (
