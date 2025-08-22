@@ -1,8 +1,14 @@
 'use server';
 
 export async function addBook(bookData) {
+
+    const baseUrl =
+    process.env.NODE_ENV === 'production'
+      ? 'https://page-aura.vercel.app'
+      : 'http://localhost:3000';
+
     try {
-        const response = await fetch('http://localhost:3000/api/addBook', {
+        const response = await fetch(`${baseUrl}/api/addBook`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
